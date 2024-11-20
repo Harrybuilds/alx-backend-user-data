@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 A SQLAlchemy model named User for a
 database table named users (by using
